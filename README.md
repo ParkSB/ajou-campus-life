@@ -1,3 +1,7 @@
+- [컴퓨터구조](computer-organization-and-architecture-note.html)
+- [컴퓨터네트워크](computer-networks-note.html)
+- [디지털타이포그래피](digital-typography-note.html)
+- [비주얼커뮤니케이션디자인](visual-communication-design-note.html)
 - [데이터베이스 중간](database-note-midterm.html)
 - [데이터베이스 기말](database-note-final.html)
 - [한국영화사 중간](korean-film-history-note-midterm.html)
